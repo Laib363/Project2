@@ -1,2 +1,2 @@
 # New Project
-This is new project from local system.
+This is new project of delta from local system.
