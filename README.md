@@ -1,2 +1,2 @@
 # New Project
-This is new..
+This is new project from local system.
